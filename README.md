@@ -81,3 +81,5 @@ The dataset contains the following features:
    ```bash
    git clone https://github.com/nishchalacharya/mpg-Data-Visualization-and-Presentation.git
    cd mpg-Data-Visualization-and-Presentation
+2. Run Dash:
+    python main.py   

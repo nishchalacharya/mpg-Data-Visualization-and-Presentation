@@ -39,6 +39,8 @@ This project focuses on **exploratory data analysis (EDA)** and **interactive vi
 | `mpg.csv` | The dataset used (contains car attributes from 1970s-80s) |
 | `datavisualisation.ipynb` | Jupyter notebook with all visualizations |
 | `README.md` | This documentation |
+| `main.py` | this contains code for pyplot in Dash |
+
 
 ---
 
